@@ -1,0 +1,70 @@
+:root {
+    --maroon: #640018;
+    --primary: #FFFFFF;
+    --pink: #EE5F93;
+    --pink-lt: #ffb1c3;
+}
+.hero-section{
+	
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#FFFFFF;
+    
+}
+.flex-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
+/*may use 100vh here to check*/
+.flex-item{
+    flex: 1 ;
+    max-width: 100%;
+    flex-basis: 50%;
+    margin: 5px;
+}
+.top-line {
+    color: #60008d;
+    font-size: 16px;
+    
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    
+}
+.hero-description{
+    
+    margin-bottom: 35px;
+    font-size: 18px;
+    line-height: 24px;
+}
+.heading {
+    margin-bottom: 24px;
+    font-size: 48px;
+    
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+}
+img{
+    height: auto;
+    width: 100%;
+}
+.darkBg{
+    background-color: #EE5F93;
+}
+.dark {
+    color: rgb(0, 0, 0);
+}
+@media screen and (max-width: 768px) {
+
+    .flex-container {
+        flex-wrap: wrap;
+    }
+    .btn, .top-line, .heading{
+        text-align: center;
+    }
+
+}
