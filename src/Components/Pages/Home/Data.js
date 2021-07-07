@@ -1,3 +1,7 @@
+import image2 from '../../../Images/dog-walk-with-phone.jpg'
+import image1 from '../../../Images/wallet-home-art-transparent-bg.png'
+
+
 export const ObjOne = {
 
     lightBg: false,
@@ -9,7 +13,7 @@ export const ObjOne = {
       'Sign up today and get access to your own personal cryptowallet. Use your wallet right away!',
     buttonLabel: 'Get Started',
     imgStart: '',
-    img: 'images/wallet-home-art-transparent-bg.png',
+    img: image1,
     alt: 'picture of pink wallet illustration'
 
 };
@@ -24,7 +28,7 @@ export const ObjTwo = {
     'Store your favorite cryptocurrency with our secure wallet. You will be ready in minutes to store and have all your currency with you, even when on the go.',
   buttonLabel: 'Get Started',
   imgStart: 'start',
-  img: 'images/dog-walk-with-phone.jpg',
+  img: image2,
   alt: 'picture of hand holding phone, with dog in the background'
 
 };
@@ -39,7 +43,6 @@ export const ObjThree = {
     'Store your favorite cryptocurrency with our secure wallet. You will be ready in minutes to store and have all your currency with you, even when on the go.',
   buttonLabel: 'Get Started',
   imgStart: 'start',
-  img: 'images/dog-walk-with-phone.jpg',
   alt: 'picture of hand holding phone, with dog in the background'
 
 };

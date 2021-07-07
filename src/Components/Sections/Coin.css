@@ -91,9 +91,15 @@
         align-items: center;
         height: 80px;
         border-bottom: 1px solid #d7d7d7;
-        width: 350px;
+        width: 340px;
+        padding-left: 10px;
+        padding-right: 10px;
     } 
     .coin-volume {
         display: none;
     }
+    .coin h1 {
+        font-size: 14px;
+        
+    } 
 }
