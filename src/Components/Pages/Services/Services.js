@@ -1,19 +1,16 @@
 import React from 'react';
 import HeroSection from '../../Sections/HeroSection';
 import CryptoSection from '../../Sections/CryptoSection';
-import Pricing from '../../Sections/Pricing';
-import { ObjOne, ObjTwo, ObjThree} from './Data';
+import {ObjTwo, ObjThree} from './Data';
 
 
-function Home() {
+function Services() {
     return (
       <>
-        <HeroSection {...ObjOne} />
         <HeroSection {...ObjTwo} />
         <CryptoSection  {...ObjThree}/>
-        <Pricing />
       </>
     );
 }
   
-export default Home;
+export default Services;

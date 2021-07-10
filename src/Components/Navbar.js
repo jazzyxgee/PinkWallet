@@ -9,9 +9,7 @@ function Navbar(){
 
     /*State Hooks for hamburger style menu*/ 
     const [click, setClick] = React.useState(false);
-
     const handleClick = () => setClick(!click);
-
 
     return (
         <>
