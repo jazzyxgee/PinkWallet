@@ -29,7 +29,7 @@ function Footer(){
                         <h2>Contact Us</h2>
                         <Link to='/'>Contact Us</Link>
                         <Link to='/'>About Us</Link>
-                        <Link to='/'>Testimonials</Link>
+                        <Link to='/'>Reviews</Link>
                     </div>
                     <div className='footer-link-items'>
                         <h2>Support</h2>
@@ -52,7 +52,7 @@ function Footer(){
                         <Link
                             className='social-icon-link'
                             to={
-                                '//www.hitokombucha.com'
+                                'www.hitokombucha.com'
                             }
                             target='_blank'
                             aria-label='Facebook'>
@@ -60,7 +60,7 @@ function Footer(){
                         </Link>
                         <Link
                             className='social-icon-link'
-                            to={'//www.instagram.com/hi2kombucha/'}
+                            to={'www.instagram.com/hi2kombucha/'}
                             target='_blank'
                             aria-label='Instagram'>
                             <FaInstagram />
@@ -68,7 +68,7 @@ function Footer(){
                         <Link
                             className='social-icon-link'
                             to={
-                                '//youtu.be/ZGgeKfqYt7o'
+                                'www.youtu.be/ZGgeKfqYt7o'
                             }
                             target='_blank'
                             aria-label='Youtube'>
@@ -76,14 +76,14 @@ function Footer(){
                         </Link>
                         <Link
                             className='social-icon-link'
-                            to={'//twitter.com/'}
+                            to={'www.twitter.com/'}
                             target='_blank'
                             aria-label='Twitter'>
                             <FaTwitter />
                         </Link>
                         <Link
                             className='social-icon-link'
-                            to={'//www.linkedin.com/in/jasmine-g-ab07a418b/'}
+                            to={'www.linkedin.com/in/jasmine-g-ab07a418b/'}
                             target='_blank'
                             aria-label='LinkedIn'>
                             <FaLinkedin />

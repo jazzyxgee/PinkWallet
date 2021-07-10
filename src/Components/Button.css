@@ -20,13 +20,15 @@
 }
 
 .btn--outline{
-    background-color: transparent;
+    background-color: var(--maroon);
+    color:white;
     border: 1px solid var(--primary);
 }
 .btn--outline:hover{
+    background-color:transparent;
     
-    background-color: var(--primary);
-    border: 1px solid var(--primary);
+    color:black;
+    border: 1px solid black;
 }
 .btn--medium {
     padding: 8px 20px;

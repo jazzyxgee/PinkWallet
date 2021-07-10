@@ -2,14 +2,14 @@
     --maroon: #640018;
     --primary: #FFFFFF;
     --pink: #EE5F93;
-    --pink-lt: #ffb1c3;
+    --pink-lt: #ffd1db;
 }
 .hero-section{
 	
     display: flex;
     align-items: center;
     justify-content: center;
-    color:#FFFFFF;
+    color:var(--primary);
     
 }
 .flex-container{
@@ -46,17 +46,17 @@
     font-size: 48px;
     
     font-weight: 600;
-    color: rgb(255, 255, 255);
+    color: #FFFFFF;
 }
 img{
     height: auto;
     width: 100%;
 }
 .darkBg{
-    background-color: #EE5F93;
+    background-color: var(--pink);
 }
 .dark {
-    color: rgb(0, 0, 0);
+    color: #000;
 }
 @media screen and (max-width: 768px) {
 
