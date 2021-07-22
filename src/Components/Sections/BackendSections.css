@@ -1,0 +1,86 @@
+.dash-container{
+    background-color: #ffebf3;
+    min-height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+.dashboard-main{
+    background-color: #fff;
+    
+    height: 450px;
+    width: 1000px;
+   
+    display: grid;
+    grid-gap:5px;
+    padding: 5px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: .5fr 1fr 1fr;
+    border-radius: 20px;
+    grid-template-areas:
+        "heading-dash logout"
+        "main sidebar"
+        "analytics sidebar ";
+}
+.heading-dash{
+    grid-area: heading-dash;
+}
+.main{
+    background-color: #FFF7FB;
+    grid-area: main;
+    border-radius: 4px;
+}
+.analytics{
+    background-color: #FFF7FB;
+    grid-area: analytics;
+    border-radius: 4px;
+}
+.sidebar{
+    background-color: #EE5F93;
+    grid-area: sidebar;
+    border-radius: 4px;
+    text-align: center;
+}
+.logout{
+    grid-area:logout;
+    text-align: right;
+}
+.sub-heading{
+    color:#848484;
+}
+.profile-heading{
+    padding-bottom: 50px;
+}
+.heading-name{
+    padding-bottom: 10px;
+}
+.balance{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height: 60%;
+}
+.account-amount{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.transactions{
+    padding: 10px;
+    text-align: left;
+}
+
+@media screen and (max-width: 1050px) {
+
+    .dashboard-main{
+        width: 500px;
+    }
+
+}
+@media screen and (max-width: 530px) {
+
+    .dashboard-main{
+        width: 330px;
+    }
+
+}

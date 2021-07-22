@@ -1,0 +1,67 @@
+.sign-container{
+    background: linear-gradient(107.47deg, #FF6DA2 2.64%, #640018 96.49%);
+    min-height: 100vh;
+
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+.signup-card{
+    background-color: #fff;
+    width: 390px;
+    height: 410px;
+    border-radius: 10px;
+}
+.signin-card{
+    background-color: #fff;
+    width: 390px;
+    height: 350px;
+    border-radius: 10px;
+}
+.heading-card{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.exist-login{
+    text-align: center;
+}
+.error{
+    background-color: rgb(255, 162, 162);
+    text-align: center;
+    color:#640018;
+}
+input{
+    background-color: #f9f9f9;
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.form-section{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    
+}
+.cnt-button{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    padding-top: 20px;
+}
+.link{
+    color:#fff;
+}
+@media screen and (max-width: 450px) {
+
+    .signin-card{
+        width: 330px;
+    }
+    .signup-card{
+        width: 260px;
+        padding: 30px;
+    }
+
+}
