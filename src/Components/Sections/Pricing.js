@@ -42,7 +42,7 @@ function Pricing(){
                         </Link>
                     </div>
                     <div className='plan'>
-                        <h2>Lavish</h2>
+                        <h2 className='pricing-heading'>Lavish</h2>
                         <div class="price">$15/monthly</div>
                         <ul className = 'features'>
                             <li>Unlimited Transactions</li>

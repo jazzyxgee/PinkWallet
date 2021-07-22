@@ -30,7 +30,7 @@
     box-shadow: 5px 7px 67px -28px rgba(0, 0, 0, 0.37);
     cursor: pointer;
 }
-h2 {
+.pricing-heading {
     font-size: 22px;
     margin-bottom: 12px;
     text-decoration: underline;
