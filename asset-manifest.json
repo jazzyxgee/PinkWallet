@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PuppyWallet/static/css/main.8ff991d5.chunk.css",
-    "main.js": "/PuppyWallet/static/js/main.7e1b85e9.chunk.js",
-    "main.js.map": "/PuppyWallet/static/js/main.7e1b85e9.chunk.js.map",
+    "main.css": "/PuppyWallet/static/css/main.59ae0a0a.chunk.css",
+    "main.js": "/PuppyWallet/static/js/main.377aaf1f.chunk.js",
+    "main.js.map": "/PuppyWallet/static/js/main.377aaf1f.chunk.js.map",
     "runtime-main.js": "/PuppyWallet/static/js/runtime-main.ca97a492.js",
     "runtime-main.js.map": "/PuppyWallet/static/js/runtime-main.ca97a492.js.map",
-    "static/js/2.45f9ec8f.chunk.js": "/PuppyWallet/static/js/2.45f9ec8f.chunk.js",
-    "static/js/2.45f9ec8f.chunk.js.map": "/PuppyWallet/static/js/2.45f9ec8f.chunk.js.map",
+    "static/js/2.c07ada21.chunk.js": "/PuppyWallet/static/js/2.c07ada21.chunk.js",
+    "static/js/2.c07ada21.chunk.js.map": "/PuppyWallet/static/js/2.c07ada21.chunk.js.map",
     "index.html": "/PuppyWallet/index.html",
-    "static/css/main.8ff991d5.chunk.css.map": "/PuppyWallet/static/css/main.8ff991d5.chunk.css.map",
-    "static/js/2.45f9ec8f.chunk.js.LICENSE.txt": "/PuppyWallet/static/js/2.45f9ec8f.chunk.js.LICENSE.txt",
+    "static/css/main.59ae0a0a.chunk.css.map": "/PuppyWallet/static/css/main.59ae0a0a.chunk.css.map",
+    "static/js/2.c07ada21.chunk.js.LICENSE.txt": "/PuppyWallet/static/js/2.c07ada21.chunk.js.LICENSE.txt",
     "static/media/dog-walk-with-phone.e2e24912.jpg": "/PuppyWallet/static/media/dog-walk-with-phone.e2e24912.jpg",
     "static/media/wallet-home-art-transparent-bg.cbbe5348.png": "/PuppyWallet/static/media/wallet-home-art-transparent-bg.cbbe5348.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ca97a492.js",
-    "static/js/2.45f9ec8f.chunk.js",
-    "static/css/main.8ff991d5.chunk.css",
-    "static/js/main.7e1b85e9.chunk.js"
+    "static/js/2.c07ada21.chunk.js",
+    "static/css/main.59ae0a0a.chunk.css",
+    "static/js/main.377aaf1f.chunk.js"
   ]
 }
