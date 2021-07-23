@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/PuppyWallet/static/css/main.59ae0a0a.chunk.css",
-    "main.js": "/PuppyWallet/static/js/main.377aaf1f.chunk.js",
-    "main.js.map": "/PuppyWallet/static/js/main.377aaf1f.chunk.js.map",
+    "main.js": "/PuppyWallet/static/js/main.7b0e6747.chunk.js",
+    "main.js.map": "/PuppyWallet/static/js/main.7b0e6747.chunk.js.map",
     "runtime-main.js": "/PuppyWallet/static/js/runtime-main.ca97a492.js",
     "runtime-main.js.map": "/PuppyWallet/static/js/runtime-main.ca97a492.js.map",
     "static/js/2.c07ada21.chunk.js": "/PuppyWallet/static/js/2.c07ada21.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ca97a492.js",
     "static/js/2.c07ada21.chunk.js",
     "static/css/main.59ae0a0a.chunk.css",
-    "static/js/main.377aaf1f.chunk.js"
+    "static/js/main.7b0e6747.chunk.js"
   ]
 }
